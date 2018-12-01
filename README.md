@@ -24,3 +24,15 @@ Executing a script with RDataTracker (more details [here](https://github.com/End
 ```
 > ddg.run('myScript.R', diplay=TRUE)
 ```
+
+
+
+
+## Fork intention
+
+The following points will be examined regarding feasibility:
+
+* (a) Include a timeline grid
+* (b) Considering an additional input with context information
+* (c) Coloring of one specific path
+
